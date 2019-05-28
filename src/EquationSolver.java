@@ -200,4 +200,5 @@ public class EquationSolver {
             result = result * x + coefficients[i];
         return result;
     }
+
 }
